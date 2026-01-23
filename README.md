@@ -1,18 +1,43 @@
 # My Power BI Dashboards and data projects
 
-# 📊 Airline delay and cancellation – Power BI :👉 [Télécharger le fichier PBIX ([https://drive.google.com/yourfilelink](https://onedrive.live.com/?cid=e134a0258ec558c5&id=E134A0258EC558C5%21s6f390bc727aa482f9f66a5acde922413&resid=E134A0258EC558C5%21s6f390bc727aa482f9f66a5acde922413&e=RVEJfa&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9lMTM0YTAyNThlYzU1OGM1L0VjY0xPVy1xSnk5SW4yYWxyTjZTSkJNQklmcTZWT0dpT3RjbDQ3bE1WZGhuRVE%5FZT1SVkVKZmE&v=validatepermissio))]
+# ✈️ Airline delay and cancellation 
 
-This dashboard analyzes Airline delay and cancellation performance since 2009 until 2018.
+## 🎯 Objectives
+- Analyze flight delays and cancellations
+- Identify airlines and routes with highest delays
+- Understand delay reasons
+- Track monthly and yearly delay trends
 
-## **📈 Visuals Used:**
-
-- Bar charts, line charts, Map
-- KPIs (Total Flights, Average Departure and Arrival Delay, Unique Airports and Total Distance)
-- Slicers for Year, Carrier, Origin, Destination and Delay Category
-
-## 🔧 Tools
+## 🧰 Tools & Technologies
 - Power BI
-- DAX
-- Power Query
-- Excel
-- SQL
+- Power Query (Data Cleaning)
+- DAX (Measures & KPIs)
+
+## 📊 Key KPIs
+- Total Flights
+- Delayed Flights %
+- Cancelled Flights %
+- Average Delay Time (minutes)
+
+## 📈 Dashboard Features
+- Delay trends by month
+- Delays by airline
+- Cancellation reasons analysis
+- Interactive slicers (Year, Airline, Airport)
+- Geographic visualization (Routes / Airports)
+
+## 🔍 Key Insights
+- Certain airlines consistently experience higher delays
+- Peak delays occur during specific months (seasonality effect)
+- Weather and operational issues are top delay causes
+
+## 💡 Recommendations
+- Optimize schedules during high-delay months
+- Improve operations for frequently delayed airlines
+- Enhance contingency planning for weather-related delays
+
+ ## 📁 Dataset
+Source: [Public airline delay dataset (Kaggle)](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018)
+
+## 📸 Dashboard Preview
+Screenshots available in the `/screenshots` folder.
