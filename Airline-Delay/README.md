@@ -57,5 +57,13 @@ Source: [Public airline delay dataset (Kaggle)](https://www.kaggle.com/datasets/
 
 ---
 
-## 📸 Dashboard Preview
-Screenshots available in the `/screenshots` folder.
+## 📸 Dashboard Screenshots
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Delay Analysis
+![Delay Analysis](screenshots/delay-analysis.png)
+
+### Airports Map
+![Map](screenshots/map.png)
