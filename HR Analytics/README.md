@@ -57,5 +57,4 @@ In this dataset, attrition is represented as a binary variable:
 
 ## 📸 Dashboard Screenshots
 
-
-📸 Dashboard Screenshots
+### Overview
