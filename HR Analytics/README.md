@@ -59,3 +59,12 @@ In this dataset, attrition is represented as a binary variable:
 
 ### Overview
 ![Overview](screenshots/overview.png)
+
+### attrition-by-department
+![attrition-by-department](screenshots/attrition-by-department.png)
+
+### attrition-by-jobrole
+![attrition-by-jobrole](screenshots/attrition-by-jobrole.png)
+
+### satisfaction-vs-attrition
+![satisfaction-vs-attrition](screenshots/satisfaction-vs-attrition.png)
