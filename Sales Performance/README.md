@@ -70,10 +70,8 @@ The dashboard enables stakeholders to monitor key financial KPIs, analyze trends
 ### Overview
 ![Overview](screenshots/overview.png)
 
-### Total Sales By Category
-![Total Sales By Category](screenshots
-/Total Sales By Category.png
-)
+### Total_Sales_By_Category
+![Total_Sales_By_Category](screenshots/Total_Sales_By_Category.png)
 
 ### Overview
 ![Overview](screenshots/overview.png)
