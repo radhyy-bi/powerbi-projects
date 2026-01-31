@@ -66,3 +66,15 @@ The dashboard provides a **high-level executive view** as well as **detailed ana
 
 ### Overview
 ![Overview](screenshots/overview.png)
+
+### Sales-And-Profit-by-Order-Date
+![Sales-And-Profit-by-Order-Date](screenshots/Sales-And-Profit-by-Order-Date.png)
+
+### Sales-by-Category
+![Sales-by-Category](screenshots/Sales-by-Category.png)
+
+### Profit-by-Region
+![Profit-by-Region](screenshots/Profit-by-Region.png)
+
+### Year-to-Date-Sales
+![Year-to-Date-Sales](screenshots/Year-to-Date-Sales.png)
