@@ -65,7 +65,7 @@ The dashboard provides a **high-level executive view** as well as **detailed ana
 ## 📸 Dashboard Screenshots
 
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 ### Sales-And-Profit-by-Order-Date
 ![Sales-And-Profit-by-Order-Date](screenshots/Sales-And-Profit-by-Order-Date.png)
